@@ -5,8 +5,7 @@ footer{
 	margin-top: 1em;
 }
 
-[epub|type~="z3998:salutation"]
-[epub|type~="z3998:signature"]{
+[epub|type~="z3998:salutation"] [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
 
@@ -23,4 +22,24 @@ footer{
 
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
+}
+
+#chapter-61 blockquote{
+	text-align: center;
+}
+
+#chapter-61 blockquote b{
+	display: inline-block;
+	font-size: x-large;
+	margin-bottom: .5em;
+	margin-top: .5em;
+	text-transform: uppercase;
+}
+
+#chapter-61 blockquote b.border{
+	border-bottom: 3px double;
+}
+
+#chapter-61 blockquote b + br + b{
+	margin-top: 0;
 }
