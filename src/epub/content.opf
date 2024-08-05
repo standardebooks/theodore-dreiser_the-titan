@@ -58,10 +58,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Theodore_Dreiser</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n79046644</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">Colin Campbell Cooper</dc:contributor>
-		<meta property="file-as" refines="#artist">Cooper, Colin Campbell</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Colin_Campbell_Cooper</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/n81107915</meta>
+		<dc:contributor id="artist">Jan Van Beers</dc:contributor>
+		<meta property="file-as" refines="#artist">Van Beers, Jan</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jan_van_Beers_(artist)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/nr95011906</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Kirk Pearson</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Pearson, Kirk</meta>
