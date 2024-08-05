@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/theodore-dreiser/the-titan</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-08-05T18:04:04Z</dc:date>
+		<meta property="dcterms:modified">2024-08-05T18:04:04Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -43,13 +43,14 @@
 		<meta property="group-position" refines="#collection-1">2</meta>
 		<dc:description id="description">A disgraced robber baron arrives in Chicago and schemes to control the streetcar system.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Frank Cowperwood, a disgraced robber baron, has just been released from prison. After some canny investments pay off, he decides to head west to Chicago, where he can rebuild his fortune and his good name. He takes his mistress, Aileen, with him, and quickly learns how to use his wealth and machine politics to take over the Chicago streetcar system.&lt;/p&gt;
+			&lt;p&gt;The second entry in &lt;a href="https://standardebooks.org/ebooks/theodore-dreiser"&gt;Dreiser’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/trilogy-of-desire"&gt;Trilogy of Desire&lt;/a&gt;, &lt;i&gt;The Titan&lt;/i&gt; continues the dramatized story of a real life streetcar tycoon, with the character of Cowperwood standing in for the historical figure of Charles Yerkes. Dreiser uses Yerkes’ story to illustrate the magnifying and corrupting influence that money can have on the lustful and the covetous: can society benefit from a powerful man who, yes, does deliver some streetcars, but whose only real interest is sex, money, art, power, and glory? While Cowperwood seems to succeed again and again at amassing wealth and power, he too often finds himself unhappy, while those around him are laid to waste by his unbridled ambition and capital.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3629</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Titan/rsN_crqUAjoC</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">197587</meta>
+		<meta property="se:reading-ease.flesch">64.0</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Titan</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/theodore-dreiser_the-titan</meta>
 		<dc:creator id="author">Theodore Dreiser</dc:creator>
