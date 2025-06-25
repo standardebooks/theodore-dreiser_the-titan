@@ -57,7 +57,7 @@
 		<meta property="file-as" refines="#author">Dreiser, Theodore</meta>
 		<meta property="se:name.person.full-name" refines="#author">Theodore Herman Albert Dreiser</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Theodore_Dreiser</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n79046644</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79046644</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Jan Van Beers</dc:contributor>
 		<meta property="file-as" refines="#artist">Van Beers, Jan</meta>
